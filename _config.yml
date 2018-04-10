@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Leandro Agudelo"
-  avatar           : https://raw.githubusercontent.com/leandroagudelo189/leandroagudelo189.github.io/master/images/14291073.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://github.com/leandroagudelo189/jekyll-page/blob/master/images/14291073.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD, Metabolism | Computational Biology | Deep Learning"
   location         : "Sweden"
   email            :
