@@ -98,10 +98,10 @@ analytics:
 # Site Author
 author:
   name             : "Leandro Agudelo"
-  avatar           : "https://github.com/leandroagudelo189/jekyll-page/blob/master/images/14291073.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : jekyll-page/images/14291073.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD, Metabolism | Computational Biology | Deep Learning"
-  location         : ""
-  email            :
+  location         : "Sweden"
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
