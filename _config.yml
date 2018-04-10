@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -100,7 +100,7 @@ author:
   name             : "Leandro Agudelo"
   avatar           : "leandroagudelo189.github.io/assets/images/14291073.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD, Metabolism | Computational Biology | Deep Learning"
-  location         : "Stockholm, "
+  location         : "Stockholm, Sweden"
   email            : leandroagudelo189@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
