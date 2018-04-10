@@ -3,7 +3,7 @@ main:
  # - title: "Quick-Start Guide"
  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://leandroagudelo189.github.io/docs/_pages/about.md
   - title: "Computer Science"
     url: /year-archive/
   - title: "Biology"
