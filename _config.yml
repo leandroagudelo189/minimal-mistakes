@@ -100,7 +100,7 @@ author:
   name             : "Leandro Agudelo"
   avatar           : "leandroagudelo189.github.io/assets/images/14291073.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD, Metabolism | Computational Biology | Deep Learning"
-  location         : "Stockholm, Sweden"
+  location         : "Stockholm, "
   email            : leandroagudelo189@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -260,7 +260,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
