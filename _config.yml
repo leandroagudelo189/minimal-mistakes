@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : https://raw.githubusercontent.com/leandroagudelo189/leandroagudelo189.github.io/master/images/14291073.png
+title                    : " "
 title_separator          : "-"
 name                     : " "
 description              : "Computer Science"
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Leandro Agudelo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://raw.githubusercontent.com/leandroagudelo189/leandroagudelo189.github.io/master/images/14291073.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD, Metabolism | Computational Biology | Deep Learning"
   location         : "Sweden"
   email            :
