@@ -1,5 +1,5 @@
 {% if page.header.image contains "://" %}
-  {% capture img_path %}{{ page.header.image }}{% endcapture %}
+  {% capture img_path="leandroagudelo189.github.io/assets/images/somm.jpg" %}{{ page.header.image }}{% endcapture %}
 {% else %}
   {% capture img_path %}{{ page.header.image | relative_url }}{% endcapture %}
 {% endif %}
